@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <data xmlns="http://www.netbeans.org/ns/make-project-private/1">
+        <activeConfTypeElem>1</activeConfTypeElem>
+        <activeConfIndexElem>0</activeConfIndexElem>
+    </data>
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="1">
+        <file>
+            <url>src/main.cpp</url>
+            <bookmark id="1">
+                <name/>
+                <line>157</line>
+                <key/>
+            </bookmark>
+        </file>
+    </editor-bookmarks>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/home/noelia/NetBeansProjects/Shopping2_S/src/main.cpp</file>
+            <file>file:/home/noelia/NetBeansProjects/Shopping2_S/tests/03.UnitEventSet.cpp</file>
+            <file>file:/home/noelia/NetBeansProjects/Shopping2_S/src/EventSet.cpp</file>
+            <file>file:/home/noelia/NetBeansProjects/Shopping2_S/include/EventSet.h</file>
+            <file>file:/home/noelia/NetBeansProjects/Shopping2_S/include/Event.h</file>
+            <file>file:/home/noelia/NetBeansProjects/Shopping2_S/src/Event.cpp</file>
+        </group>
+    </open-files>
+</project-private>
